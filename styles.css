@@ -1,0 +1,104 @@
+h1  { 
+    
+    background-color: rgb(18, 247, 68);
+    font-size: 39px;
+    display: flex;
+    justify-content: center;
+    border-color: rgb(76, 141, 214);
+    border-radius: 2px;
+    border-style: solid;
+
+}
+
+h2 {
+
+    background-color: rgb(86, 226, 226);
+
+}
+
+p {
+
+    background-color: rgb(89, 206, 252);
+    font-size: 20px;
+    
+}
+
+header {
+    background-color: #94cbf8;
+    color: #010a0e;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+header img {
+    width: 250px;
+    border-radius: 30;
+    margin: px;
+}
+
+nav ul {
+    justify-content: center;
+    padding: 60;
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+section {
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(229, 236, 243);
+    border-radius: 8px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    height: 150;
+    border-radius: 10px;
+    margin: 80px;
+}
+
+.gallery img {
+
+    height: 140px;
+    margin: 50px;
+    border-radius: 15px;
+   
+}
+
+footer {
+    background-color: #31bdb6;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: flex;
+    margin-right: 10px;
+}
+
+footer ul li a {
+    color: rgb(255, 255, 255);
+}
+    
+
+
+
+
+
